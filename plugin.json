@@ -1,0 +1,8 @@
+{
+  "name": "upstage-doc-format",
+  "version": "1.0.0",
+  "description": "Generate documents in Upstage's official corporate format. Supports DOCX, HTML, and Markdown output.",
+  "skills": [
+    "skills/upstage-doc-format"
+  ]
+}
