@@ -1,0 +1,17 @@
+{
+    "name": "upstage-doc-format",
+    "version": "1.0.0",
+    "description": "Generate documents in Upstage's official corporate design format. Supports DOCX, HTML, and Markdown output with branded headers, typography, and table styling.",
+    "author": {
+          "name": "Upstage AI"
+    },
+    "keywords": [
+          "upstage",
+          "document",
+          "template",
+          "RFP",
+          "proposal",
+          "report",
+          "corporate-identity"
+    ]
+}
